@@ -16,8 +16,8 @@ When the user clicks the generate password button they will see a series of prom
 
 ## Deployed
 
-[GitHub] (https://github.com/TomFallon9/Password-Generator)
+(https://github.com/TomFallon9/Password-Generator)
 
 [Password-Generator](https://tomfallon9.github.io/Password-Generator/)
-
-![Screenshot](/TomFallon9/Password-Generator/screenshot.png)
+## Screenshot
+![Screenshot](https://github.com/TomFallon9/Password-Generator/screenshot.png)
