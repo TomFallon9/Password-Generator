@@ -24,8 +24,8 @@ When the user clicks the generate password button they will see a series of prom
 ![Screenshot](https://github.com/TomFallon9/Password-Generator/blob/master/screenshot.png?raw=true)
 
 ## Resources
-*W3 Schools
-*Stackoverflow
-*MDN Web Docs
+* W3 Schools
+* Stackoverflow
+* MDN Web Docs
 
 
