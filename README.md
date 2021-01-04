@@ -21,4 +21,4 @@ When the user clicks the generate password button they will see a series of prom
 [Live Page](https://tomfallon9.github.io/Password-Generator/)
 
 ## Screenshot
-![Screenshot](/Password-Generator/screenshot.png)
+![Screenshot](https://github.com/TomFallon9/Password-Generator/blob/master/screenshot.png?raw=true)
