@@ -1,7 +1,7 @@
 # Password-Generator Homework #3
 ## Introduction
 
-For this assignment we were asked create a browser-based web application that generates a random password based on user-selected criteria. The Password-Generator will run in the browser with updated HTML, CSS, and JS files which will allow application to be responsive, ensuring a clean and polished user interface. 
+For this assignment we were asked create a browser-based web application that generates a random password based on user-selected criteria. The Password-Generator will run in the browser with updated HTML, CSS, and JS files which will allow application to be responsive, ensuring a clean user interface. 
 
 ## Instructions
 
@@ -22,3 +22,10 @@ When the user clicks the generate password button they will see a series of prom
 
 ## Screenshot
 ![Screenshot](https://github.com/TomFallon9/Password-Generator/blob/master/screenshot.png?raw=true)
+
+## Resources
+W3 Schools
+Stackoverflow
+MDN Web Docs
+
+
