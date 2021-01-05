@@ -5,7 +5,7 @@ For this assignment we were asked create a browser-based web application that ge
 
 ## Instructions
 
-When the user clicks the generate password button they will see a series of prompts. The user must select the length of the password, between 8 and 128 characters. User will then choose the character types that they want included in the password. The choices are :lowercase, uppercase, numeric, and special characters. Once selections have been made a randomly generated password matching the user's selected criteria will be displayed on the page.  
+When the user clicks the generate password button they will see a series of prompts. The user must select the length of the password, between 8 and 128 characters. User will then choose the character types that they want included in the password. The choices are: lowercase, uppercase, numeric, and special characters. Once selections have been made a randomly generated password matching the user's selected criteria will be displayed on the page.  
 
 
 ## Technologies Used:
