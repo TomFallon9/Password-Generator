@@ -9,7 +9,7 @@ Built with HTML, CSS, JS
 
 ## Introduction
 
-For this assignment we were asked create a browser-based web application that generates a random password based on user-selected criteria. The Password-Generator will run in the browser with updated HTML, CSS, and JS files which will allow application to be responsive, ensuring a clean user interface. 
+For this assignment we were asked to create a browser-based web application that generates a random password based on user-selected criteria. The Password-Generator will run in the browser with updated HTML, CSS, and JS files which will allow application to be responsive, ensuring a clean user interface. 
 
 ## Instructions
 
