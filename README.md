@@ -1,5 +1,11 @@
-# Password-Generator
+<div align="center">
+  
+#  Password Generator
+  
+Built with HTML, CSS, JS
 
+
+</div>
 ## Introduction
 
 For this assignment we were asked create a browser-based web application that generates a random password based on user-selected criteria. The Password-Generator will run in the browser with updated HTML, CSS, and JS files which will allow application to be responsive, ensuring a clean user interface. 
